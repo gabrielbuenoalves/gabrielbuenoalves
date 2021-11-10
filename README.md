@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Gabriel Bueno Alves 👋
-
-- 🔭 Hoje trabalho com API em Python
-- 🌱 Estudando back-end em .net3 e front-end em Angular9
+- 📫 Hoje trabalho com Criação e execução de scripts no ecossitema do .net framework para back-end,tambem ultilizando metodologias ágeis (Scrum).
+- 📫Tecnologias usadas: Postman, .Net Framework,Angular,Mysql
 - 📫 Contate-me no email: gabrielbuenoalvesdev@gmail.com
 
 <div>
