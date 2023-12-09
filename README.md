@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Gabriel Bueno Alves 👋
-- 📫 Hoje trabalho com Criação e execução de scripts no ecossitema do .net framework para back-end,tambem ultilizando metodologias ágeis (Scrum).
+- 📫 Hoje trabalho com Criação e execução de scripts no ecossitema do .net Core para back-end,tambem ultilizando metodologias ágeis (Scrum).
 - 📫Tecnologias usadas: Postman, .Net Framework,Angular,Mysql
 - 📫 Contate-me no email: gabrielbuenoalvesdev@gmail.com
 
